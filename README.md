@@ -1,8 +1,11 @@
 # SMNAR
 - [Servicio Meteorologico Nacional Argentina](https://www.smn.gob.ar) 
 
-# Qué ? 
+## Qué ? 
 Pequeña conexión con la API de SMNA (https://ws.smn.gob.ar/map_items/weather)
 que muestra iconito del tiempo y temperatura de CABA
 
-# Chas Gracias
+## Dónde está funcionando?
+https://750.am/
+
+## Chas Gracias
